@@ -3,7 +3,7 @@ import React from 'react';
 export function PharaohArt() {
   return (
     <section className="relative min-h-screen bg-black py-24 overflow-hidden">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1547483238-2cbf88bc56ad?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-20" />
+      <div className="absolute inset-0 bg-[url('/home/Danzznn/sb1-pbjrpu/src/Remove-bg.ai_1732891532324.png')] bg-cover bg-center opacity-20" />
       
       <div className="max-w-7xl mx-auto px-6 relative">
         <div className="grid md:grid-cols-2 gap-16 items-center">
@@ -33,7 +33,7 @@ export function PharaohArt() {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-r from-orange-500 to-yellow-500 opacity-30 blur-3xl" />
             <img 
-              src="https://images.unsplash.com/photo-1608485439022-49c04cc29944?auto=format&fit=crop&q=80"
+              src="/home/Danzznn/sb1-pbjrpu/src/Remove-bg.ai_1732891532324.png"
               alt="Pharaoh Art"
               className="relative rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
